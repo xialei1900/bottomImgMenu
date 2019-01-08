@@ -1,0 +1,2 @@
+# bottomImgMenu
+uni-app component
